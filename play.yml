@@ -2,5 +2,5 @@
 - hosts: local
   gather_facts: false
     become: true
-    roles:
-      - ansible-role-ping
+  - roles:
+    - ansible-role-ping
