@@ -1,4 +1,4 @@
 ---
 - src: https://github.com/yodaaut/ansible-role-ping
   version: master
-  name: yodaaut.ansible-role-ping
+  name: yodaaut.ping
